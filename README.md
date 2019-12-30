@@ -6,4 +6,6 @@ Details setup guide is available in the documents above.
 The point cloud was plotted in the Sweep Visualizer Beta.
 
 Data conversion was modified from the project done by the other team.
-Error handling is important to keep the device from scanning.
+**Error handling** is important to keep the device from scanning.
+
+![mapping device] /Examples/Picture of environment/sweepDevice.jpg
