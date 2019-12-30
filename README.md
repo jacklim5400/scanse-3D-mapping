@@ -9,3 +9,5 @@ Data conversion was modified from the project done by the other team.
 **Error handling** is important to keep the device from scanning.
 
 ![mapping device] (/Examples/Picture of environment/sweepDevice.jpg)
+
+Have a nice day! :grinning:
