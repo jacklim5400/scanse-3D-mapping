@@ -8,7 +8,6 @@ import transformations as tf
 import re
 from sweeppy import Sweep
 import scan_setting
-import sweep_helpers
 
 board = pyfirmata.Arduino('COM15')      #Arduino assigned to COM15
 it = pyfirmata.util.Iterator(board)           #
